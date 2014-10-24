@@ -5,3 +5,5 @@ Staging area is a temporal storage place for files currently being worked upon.
 How can you use the staging area to make sure you have one commit per logical change?
 I can keep on staging any small changes to the code until I reach the point of when change is big enough to represent a
 logical change. 
+How do the diagrams help you visualize the branch structure?
+It's cruicial for easy navigations through branches
