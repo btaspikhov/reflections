@@ -6,4 +6,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 I can keep on staging any small changes to the code until I reach the point of when change is big enough to represent a
 logical change. 
 How do the diagrams help you visualize the branch structure?
-It's cruicial for easy navigations through branches
+It's cruicial for easy navigations through branches.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+In the result we end up having a single branch with commits from both the branches. Last commit is going to have
+two parents and contains changes made in both of them since parting in two branches. Diagram shows it clearly
+that two branches merging in one.
