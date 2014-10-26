@@ -11,3 +11,6 @@ What is the result of merging two branches together? Why do we represent it in t
 In the result we end up having a single branch with commits from both the branches. Last commit is going to have
 two parents and contains changes made in both of them since parting in two branches. Diagram shows it clearly
 that two branches merging in one.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: You don't have to go trough two peaces of code to reconsile them, the machine does it for you.
+Cons: Git does not always know how to merge if there are two changes in the same line.
