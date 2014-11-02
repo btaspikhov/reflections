@@ -30,4 +30,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It could be when I would need an approval from other team members and also to facilitate simultaneous changes from 
+    different people. Each person would first present their changes via pull request. Then they would be merged after 
+    resolving the conflicts. It is time consuming though. For one person there is no reason to do that, only if he wants 
+    to support different versions of his application.
